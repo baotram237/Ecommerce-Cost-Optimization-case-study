@@ -1,4 +1,4 @@
-# Cost-Optimization-Ecommerce-Case-study-
+# Cost-Optimization-Ecommerce-Case-study-: [Google Drive Link](https://drive.google.com/drive/folders/1KskilpU6A2jqGcoDdPPA_i3GUBH6l2u1?usp=drive_link)
 This case study focuses on e-commerce, analyzing a dataset of 6500 rows to improve profits based on historical data and recommend effective business strategies.
 
 # OPTIMIZING THE COST OF INVESTMENT IN PROMOTIONAL CAMPAIGNS AND LEVERAGING THE SELLER'S CAPITAL TO ENHANCE REVENUE
