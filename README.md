@@ -18,9 +18,7 @@ significant insights and create actionable reports;
 - Suggest cost optimization solutions to increase platform profits
 
 # Data Model:
+![image](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study/assets/82713550/8e6f0594-2018-40bb-a006-544ffe8b3279)
 
-![image](https://github.com/baotram237/Cost-Optimization-Ecommerce-Case-study-/assets/82713550/a60813ed-ee8b-43a4-bb08-79687d4a647b)
+![image](https://github.com/baotram237/Ecommerce-Cost-Optimization-case-study/assets/82713550/9cc11f1b-c879-4c96-b456-7810779755bb)
 
-Business Metrics:
-
-![image](https://github.com/baotram237/Cost-Optimization-Ecommerce-Case-study-/assets/82713550/45792709-3c94-4f91-bd4a-e5035a947ca3)
